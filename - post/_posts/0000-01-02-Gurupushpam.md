@@ -2,4 +2,5 @@ layout: slide
 title:"Welcome to our second slide!"
 your text
 ...
-Be positive
+"Hope is a good thing"
+
